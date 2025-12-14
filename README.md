@@ -1,5 +1,5 @@
 # DEVOPS PROJECTS
-This repository contains my projects while taking the DevOps track of [roadmap.sh](https://roadmap.sh/).
+This repository contains my projects while taking the DevOps track of [roadmap.sh](https://roadmap.sh/devops).
 
 1. [**Server Performance Stats**](https://roadmap.sh/projects/server-stats)
 2. [**Log Archive Tool**](https://roadmap.sh/projects/log-archive-tool) 
